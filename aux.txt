@@ -1,0 +1,9 @@
+      reference: /configs/resources/audios/Original/SPM16/SPM16_43_01.wav
+      createAnchor35: false
+      createAnchor70: false
+      stimuli:
+          knn: configs/resources/audios/KNN-VC/SPM16/SPM16_43_02_converted.wav
+          lvc: configs/resources/audios/LVC-VC/SPM16/SPM16_43_02_converted.wav
+          triaan: configs/resources/audios/TRIAAN-VC/SPM16/SPM16_43_02_converted.wav
+          wav2vec: configs/resources/audios/WAV2VEC-VC/SPM16/SPM16_43_02_converted.wav
+          whisper: configs/resources/audios/source/SPM16/SPM16_43_02.wav          
