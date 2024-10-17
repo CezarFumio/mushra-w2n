@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pymushra
+Version: 0.3
+Summary: webMUSHRA server in Python
+Author: Nils Werner, Fabian-Robert Stöter
+Author-email: nils.werner@audiolabs-erlangen.de
+License: MIT
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib>=2.0.0
+Requires-Dist: scipy
+Requires-Dist: ipython
+Requires-Dist: flask>=2.2.5
+Requires-Dist: pandas>=0.24.0
+Requires-Dist: seaborn
+Requires-Dist: statsmodels
+Requires-Dist: patsy
+Requires-Dist: tinydb>=3.0.0
+Requires-Dist: tinyrecord
+Requires-Dist: pytest
+Requires-Dist: click
